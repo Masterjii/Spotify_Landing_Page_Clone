@@ -4,7 +4,7 @@
 
 Welcome to the 🎧Spotify Landing Page project! This repository contains the code for a landing page inspired by the aesthetics of Spotify, built using only HTML and CSS. The goal of this project is to showcase how a visually appealing and interactive landing page can be created with fundamental web technologies.🎓😊
 
-Explore the 🚀 Demo: https://resilient-pudding-776540.netlify.app
+Explore the 🚀 Demo: https://spotify-landing-page-html-css.netlify.app
 
 Let's 🌐 Connect: https://www.linkedin.com/in/balram-kusharam
 
